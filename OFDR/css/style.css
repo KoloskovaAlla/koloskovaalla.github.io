@@ -1257,7 +1257,7 @@ header {
 }
 
 .slider .slick-arrow.slick-next  {
-	right: 0;
+	left: 0;
 	background: url('../img/slider/right-arrow.png') 0 0 no-repeat; 
 }
 
